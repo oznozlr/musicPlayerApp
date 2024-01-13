@@ -19,7 +19,7 @@ This project is a simple music playlist application built using Bootstrap, JavaS
 1 .Navigate to the Project Directory:
 
     ```bash
-    cd music-playlist-app
+    cd musicPlayerApp
     ```
 
 2. Open the index.html file in your preferred web browser. You can do this by double-clicking on the file or dragging it into your browser.
