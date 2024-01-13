@@ -4,6 +4,8 @@
 
 This project is a simple music playlist application built using Bootstrap, JavaScript, and HTML5. The application allows you to create and manage playlists, play your favorite songs, and enjoy a seamless music listening experience.
 
+<img src="/musicPlayerApp/img/musicplayerapp.png" alt="angular" width="800" /><br />
+
 
 ## Features
 
